@@ -4960,7 +4960,7 @@
     }
   });
 
-  // src/App.jsx
+  // src/index.tsx
   var React = __toESM(require_react());
   var Server = __toESM(require_server_browser());
   var Greet = () => /* @__PURE__ */ React.createElement("h1", null, "Hello, world!");
@@ -4987,3 +4987,4 @@ object-assign
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+//# sourceMappingURL=index.js.map
